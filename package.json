@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "text": "jest"
+        "test": "jest"
     },
     "devDependencies": {
         "jest": "^25.2.7"
